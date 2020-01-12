@@ -1,7 +1,7 @@
 ******************************************************************************
                   MSP430 Linker PC v18.12.3                    
 ******************************************************************************
->> Linked Sun Jan 12 10:42:21 2020
+>> Linked Sun Jan 12 10:51:53 2020
 
 OUTPUT FILE NAME:   <blinkingled.out>
 ENTRY POINT SYMBOL: "_c_int00_noinit_noargs_mpu"  address: 00004000
